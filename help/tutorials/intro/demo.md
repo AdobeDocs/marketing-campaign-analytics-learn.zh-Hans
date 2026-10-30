@@ -1,6 +1,6 @@
 ---
-title: Mix Modeler端到端演示
-description: 了解 Adobe Mix Modeler 的端到端工作流。
+title: Marketing Campaign Analytics端到端演示
+description: 了解Adobe Marketing Campaign Analytics的端到端工作流程。
 role: Developer, User
 level: Beginner
 doc-type: Value Video
@@ -8,17 +8,17 @@ duration: 1280
 last-substantial-update: 2024-12-03T00:00:00.000Z
 jira: KT-16610
 exl-id: 097a1672-7163-4982-ace4-12d0ab33a622
-TQID: 'https://experienceleague.adobe.com/NLRWCJvd9Jqo4sbb-6EB-p5CZeS5rPZ1P5I3DcwrToE'
+TQID: 'https://experienceleague.adobe.com/12qKmVTmEWRXbcmNZSjKJWs-rxvRd55yRlJAXtA4rCs'
 product_v2:
   - id: b88c80e3-31df-4609-989d-d4dac0e6d973
-    internal-label: Mix Modeler
+    internal-label: Marketing Campaign Analytics
 feature_v2:
+  - id: a567f0f7-0057-4079-8ded-5b24cc25af15
+    internal-label: Harmonized data
   - id: e0abf868-dae2-4c1c-83e9-b21799232845
     internal-label: Datasets
   - id: f40f1683-8300-4054-aab8-77da06ad63ff
     internal-label: Models
-  - id: a567f0f7-0057-4079-8ded-5b24cc25af15
-    internal-label: Harmonized data
 subfeature_v2:
   - id: a9505d76-24a1-4ffe-bd01-6ac32d5af453
     internal-label: Model insights
@@ -55,13 +55,19 @@ topic_v2:
     internal-label: Machine learning
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy
-source-git-commit: 9d05b49487b1c920327241c1147a4c72cb9d69b8
+source-git-commit: 9204bd8bbe86d179f4059b292de137b34933b6db
 workflow-type: tm+mt
-source-wordcount: '48'
-ht-degree: 37%
+source-wordcount: '84'
+ht-degree: 9%
 ---
-# Mix Modeler端到端演示
+# Marketing Campaign Analytics端到端演示
 
-请参阅Adobe Mix Modeler的端到端演示。 有关详细信息，请参阅[Mix Modeler文档](https://experienceleague.adobe.com/zh-hans/docs/mix-modeler/using/overview)。
+>[!BEGINSHADEBOX]
+
+**Adobe Marketing Campaign Analytics**&#x200B;是&#x200B;**Adobe Marketing Campaign Analytics**&#x200B;的演变和重新品牌化。 某些Experience League内容可能仍会引用Mix Modeler，而不是Marketing Campaign Analytics。
+
+>[!ENDSHADEBOX]
+
+请参阅Adobe Marketing Campaign Analytics的端到端演示。 有关详细信息，请参阅[Marketing Campaign Analytics文档](https://experienceleague.adobe.com/zh-hans/docs/mix-modeler/using/overview)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440804/?captions=chi_hans&learn=on&enablevpops)
