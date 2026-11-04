@@ -47,6 +47,6 @@ ht-degree: 0%
 
 >[!ENDSHADEBOX]
 
-了解Marketing Campaign Analytics的工作流程。 有关其他信息，请参阅[Marketing Campaign Analytics工作流](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow)文档。
+了解Marketing Campaign Analytics的工作流程。 有关其他信息，请参阅[Marketing Campaign Analytics工作流](https://experienceleague.adobe.com/zh-hans/docs/mix-modeler/using/get-started/workflow)文档。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424854?learn=on&enablevpops)

@@ -64,6 +64,6 @@ ht-degree: 0%
 
 >[!ENDSHADEBOX]
 
-请参阅用户界面中的Marketing Campaign Analytics的主要功能。 有关详细信息，请参阅[Adobe Marketing Campaign Analytics指南](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow)。
+请参阅用户界面中的Marketing Campaign Analytics的主要功能。 有关详细信息，请参阅[Adobe Marketing Campaign Analytics指南](https://experienceleague.adobe.com/zh-hans/docs/mix-modeler/using/get-started/workflow)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424851?learn=on&enablevpops)
